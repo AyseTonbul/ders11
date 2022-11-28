@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0 ;
+    padding: 2 rem;
+
+    font-family: sans-serif;
+    font-size: 25px;
+
+}
+
+div.sayac{
+    background-color: coral;
+    color: black;
+    
+   
+    
+    
+}
+
+div.sayac button{
+    padding: 1rem;
+    border: 2px solid grey;
+    background-color: aquamarine;
+
+}
